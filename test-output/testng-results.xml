@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T20:45:00 IST" name="Suite" finished-at="2024-10-16T20:45:06 IST" duration-ms="5820">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T20:45:00 IST" name="Test" finished-at="2024-10-16T20:45:06 IST" duration-ms="5820">
+      <class name="restApi.ToPostResourceNew">
+        <test-method signature="ToPostResourceNew()[pri:0, instance:restApi.ToPostResourceNew@595b007d]" started-at="2024-10-16T20:45:03 IST" name="ToPostResourceNew" finished-at="2024-10-16T20:45:06 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToPostResourceNew -->
+      </class> <!-- restApi.ToPostResourceNew -->
+      <class name="restApi.ToGetZIPCode">
+        <test-method signature="ToGetZIPCode()[pri:0, instance:restApi.ToGetZIPCode@5158b42f]" started-at="2024-10-16T20:45:03 IST" name="ToGetZIPCode" finished-at="2024-10-16T20:45:03 IST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToGetZIPCode -->
+      </class> <!-- restApi.ToGetZIPCode -->
+      <class name="restApi.toTestFirstEspGetApi">
+        <test-method signature="getFirstESPApi()[pri:0, instance:restApi.toTestFirstEspGetApi@2a798d51]" started-at="2024-10-16T20:45:01 IST" name="getFirstESPApi" finished-at="2024-10-16T20:45:02 IST" duration-ms="1815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstESPApi -->
+      </class> <!-- restApi.toTestFirstEspGetApi -->
+      <class name="restApi.ToGetRandomDataByGet">
+        <test-method signature="ToGetRandomDataByGet()[pri:0, instance:restApi.ToGetRandomDataByGet@16293aa2]" started-at="2024-10-16T20:45:02 IST" name="ToGetRandomDataByGet" finished-at="2024-10-16T20:45:03 IST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToGetRandomDataByGet -->
+      </class> <!-- restApi.ToGetRandomDataByGet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
